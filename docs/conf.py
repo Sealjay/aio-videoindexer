@@ -14,7 +14,7 @@ import sphinx_rtd_theme
 import os
 import sys
 
-sys.path.insert(0, os.path.abspath("../src/"))
+sys.path.insert(0, os.path.abspath("../asyncvideoindexer/"))
 
 
 # -- Project information -----------------------------------------------------
@@ -26,7 +26,7 @@ author = "Chris Lloyd-Jones"
 autoclass_content = "both"
 master_doc = "index"
 # The full version, including alpha/beta/rc tags
-release = "0.1.0"
+release = "1.0.0.dev1"
 
 
 # -- General configuration ---------------------------------------------------
