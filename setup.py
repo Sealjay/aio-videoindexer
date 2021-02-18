@@ -14,9 +14,9 @@ setup(
     classifiers=[
         "License :: OSI Approved :: MIT License",
         "Programming Language :: Python :: 3",
-        "Programming Language :: Python :: 3.7",
+        "Programming Language :: Python :: 3.9",
     ],
-    url="https://github.com/Sealjay-clj/aio-videoindexer",
+    url="https://aio-videoindexer.readthedocs.io/en/latest/",
     author="Chris Lloyd-Jones",
     license="MIT",
     packages=["aiohttp", "aiohttp[speedups]"],

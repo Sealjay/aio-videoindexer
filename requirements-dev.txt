@@ -1,3 +1,2 @@
 black
 pylint
-sphinx==3.5.1
