@@ -1,4 +1,6 @@
 # aio-videoindexer
+[![Documentation Status](https://readthedocs.org/projects/aio-videoindexer/badge/?version=latest)](https://aio-videoindexer.readthedocs.io/en/latest/?badge=latest) ![PyPI](https://img.shields.io/pypi/v/aio-videoindexer) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/aio-videoindexer) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) ![GitHub issues](https://img.shields.io/github/issues/Sealjay-clj/aio-videoindexer) ![GitHub](https://img.shields.io/github/license/Sealjay-clj/aio-videoindexer)  ![I Love Badges](https://img.shields.io/badge/-I%20Love%20Badges-blueviolet) ![GitHub Repo stars](https://img.shields.io/github/stars/Sealjay-clj/aio-videoindexer?style=social)
+
 An async video indexer package for querying [Microsoft Media Services Video Indexer](https://docs.microsoft.com/en-us/azure/media-services/video-indexer/) in Python.
 
 # Installation
