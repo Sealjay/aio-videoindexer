@@ -7,7 +7,7 @@ README_TEXT = (CURRENT_PATH / "README.md").read_text()
 
 setup(
     name="aio-videoindexer",
-    version="1.0.0.dev1",
+    version="1.0.0.dev2",
     description="An async video indexer package for querying Microsoft Media Services Video Indexer in Python.",
     long_description=README_TEXT,
     long_description_content_type="text/markdown",
@@ -17,6 +17,8 @@ setup(
         "Programming Language :: Python :: 3.9",
         "Development Status :: 3 - Alpha",
         "Intended Audience :: Developers",
+        "Topic :: Internet :: WWW/HTTP :: Dynamic Content",
+        "Topic :: Software Development :: Libraries :: Python Modules",
     ],
     keywords="azure media services video indexer asyncio aio async sdk",
     url="https://aio-videoindexer.readthedocs.io/en/latest/",
