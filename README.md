@@ -1,4 +1,4 @@
-# async_videoindexer
+# aio-videoindexer
 An async video indexer package for querying [Microsoft Media Services Video Indexer](https://docs.microsoft.com/en-us/azure/media-services/video-indexer/) in Python.
 
 # Installation
