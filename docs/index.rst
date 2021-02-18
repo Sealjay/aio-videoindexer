@@ -27,7 +27,7 @@ Here is an example of the package in use::
    VIDEO_INDEXER_ACCOUNT_LOCATION = "your-account-location"
 
    async def get_video_indexer():
-      video_indexer = await AsyncVideoIndexer.create(
+      video_indexer = await AsyncVideoIndexer.AsyncVideoIndexer.create(
          VIDEO_INDEXER_ACCOUNT_ID,
          VIDEO_INDEXER_KEY,
          VIDEO_INDEXER_ACCOUNT_LOCATION,
