@@ -123,7 +123,7 @@ class AsyncVideoIndexer:
             f"https://api.videoindexer.ai/{self.location}/"
             + f"Accounts/{self.account_id}/"
             + f"Videos/{video_id}/InsightsWidget?accessToken={video_access_token}"
-            + "&allowEdit={allow_edit}"
+            + f"&allowEdit={allow_edit}"
         )
         return url
 
