@@ -7,7 +7,7 @@ README_TEXT = (CURRENT_PATH / "README.md").read_text()
 
 setup(
     name="aio-videoindexer",
-    version="1.0.0.dev6",
+    version="1.0.0",
     description="An async video indexer package for querying Microsoft Media Services Video Indexer in Python.",
     long_description=README_TEXT,
     long_description_content_type="text/markdown",
