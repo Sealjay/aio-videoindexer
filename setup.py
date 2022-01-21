@@ -7,7 +7,7 @@ README_TEXT = (CURRENT_PATH / "README.md").read_text()
 
 setup(
     name="aio-videoindexer",
-    version="1.0.0.dev3",
+    version="1.0.0.dev6",
     description="An async video indexer package for querying Microsoft Media Services Video Indexer in Python.",
     long_description=README_TEXT,
     long_description_content_type="text/markdown",
@@ -24,8 +24,8 @@ setup(
     url="https://aio-videoindexer.readthedocs.io/en/latest/",
     project_urls={
         "Documentation": "https://aio-videoindexer.readthedocs.io/en/latest/",
-        "Source": "https://github.com/Sealjay-clj/aio-videoindexer",
-        "Tracker": "https://github.com/Sealjay-clj/aio-videoindexer/issues",
+        "Source": "https://github.com/Sealjay/aio-videoindexer",
+        "Tracker": "https://github.com/Sealjay/aio-videoindexer/issues",
     },
     author="Chris Lloyd-Jones",
     license="MIT",
