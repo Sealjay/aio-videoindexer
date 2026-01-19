@@ -1,4 +1,8 @@
 # aio-videoindexer
+
+> **⚠️ ARCHIVED**: This repository is archived and no longer maintained. Azure Media Services, which this project relied upon, was [retired by Microsoft in June 2024](https://azure.microsoft.com/updates/retirement-notice-azure-media-services-is-being-retired/).
+
+> **📝 Blog Post**: Read more about this project at [Extracting transcripts and insights from videos in Python](https://sealjay.com/extracting-transcripts-and-insights-from-videos-in-python/)
 [![Documentation Status](https://readthedocs.org/projects/aio-videoindexer/badge/?version=latest)](https://aio-videoindexer.readthedocs.io/en/latest/?badge=latest) ![PyPI](https://img.shields.io/pypi/v/aio-videoindexer) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/aio-videoindexer) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) ![GitHub issues](https://img.shields.io/github/issues/Sealjay/aio-videoindexer) ![GitHub](https://img.shields.io/github/license/Sealjay/aio-videoindexer)  ![I Love Badges](https://img.shields.io/badge/-I%20Love%20Badges-blueviolet) ![GitHub Repo stars](https://img.shields.io/github/stars/Sealjay/aio-videoindexer?style=social)
 
 ## Overview
